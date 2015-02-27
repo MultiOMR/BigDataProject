@@ -1,0 +1,4 @@
+var namespace_multiple_o_m_r_1_1_adding_x_m_l_single_measures =
+[
+    [ "AddingXMLSingleMeasures", "class_multiple_o_m_r_1_1_adding_x_m_l_single_measures_1_1_adding_x_m_l_single_measures.html", "class_multiple_o_m_r_1_1_adding_x_m_l_single_measures_1_1_adding_x_m_l_single_measures" ]
+];

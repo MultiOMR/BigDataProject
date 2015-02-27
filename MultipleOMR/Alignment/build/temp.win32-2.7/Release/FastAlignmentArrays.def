@@ -1,0 +1,3 @@
+LIBRARY FastAlignmentArrays.pyd
+EXPORTS
+initFastAlignmentArrays

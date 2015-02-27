@@ -1,0 +1,28 @@
+var class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions =
+[
+    [ "_filterTransitions", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a42171b4896918458f0ffd2f548c6fa8a", null ],
+    [ "_getAverageQuavers", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a10ff8b1bd92ec6ddf3fb5ebf8ad9b1c2", null ],
+    [ "_getTransitionBar", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a39d6c6bcc08ba65f1cb66099f81d7ef5", null ],
+    [ "_IsMeasureHigherTS", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a172af7c7d11b8ef9124ae4dcc69beb91", null ],
+    [ "_notesToTriplets", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#ac5402467f58c281aa92c67c0f8af04f0", null ],
+    [ "_removeSlurs", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a83aa556be56a1068921824cf41a86bf1", null ],
+    [ "beamsToTriplets", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a4e34f59f9e336e451dd9d408f36fb17b", null ],
+    [ "convertBeamsToTriplets", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a5ce5fbed5ba896cf59f43aad23a97382", null ],
+    [ "convertVoicesToChord", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#ac9b10b330d69bd4a72c0a0445dbc980d", null ],
+    [ "correctIncorrectMeasuresArray", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a351439c0ceb547b2e3f76d5e43e47298", null ],
+    [ "filterExtraMeasures", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a412152b9e155aa001a65b7621f554d52", null ],
+    [ "flagIncorrectMeasures", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a260bc67f8ccedfa1afcf159da816f945", null ],
+    [ "getDuration", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a9d2245ac0d1329b7b247c4753b404f1c", null ],
+    [ "getIncorrectMeasureIndices", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a19578bf3e3d9ec6c98b70ae165a48b8f", null ],
+    [ "getNoteByOffset", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a1c05ee2de29149c1c6f81a4a8b2ccfc1", null ],
+    [ "getPossibleBeamsErrors", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a1948d6ed650e304ef6e6d64f6f1ad2f8", null ],
+    [ "getPossibleLastNoteErrors", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a19efdc95bc85193985ae3fd16f1ebc88", null ],
+    [ "getSlurs", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a962810b02dd7505c2cb6af3fb86f726d", null ],
+    [ "getTransitions", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a4ac4c5f88339937dba0cfd442938216b", null ],
+    [ "mergeChords", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a009bcee6e9f22a7b11cf0c82268d9d0e", null ],
+    [ "reconstructScore", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a791b5ef7d7e05aaa8f028ac00d4b3ad8", null ],
+    [ "removeRestVoice", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a850a98ad663850060664a621e8eda209", null ],
+    [ "removesEmptyVoices", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#aa53a737bb76d2fb98e6e6c6c6607ab50", null ],
+    [ "removesGaps", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a563121f44924c2f5feb9d2a75cf2a010", null ],
+    [ "reorderMeasures", "class_multiple_o_m_r_1_1_functions_1_1_measure_functions_1_1_measure_functions.html#a9ac9e33d8b1a5ccb9363469982c4814e", null ]
+];

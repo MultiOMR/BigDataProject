@@ -1,0 +1,24 @@
+/*!
+  \page My MultipleOMR Project
+
+ This web describes the technical documentation for the project Optical   music Recognition from Multiple Sources carried on by Lancaster University and University of Leeds.
+
+ The main namespace, MultipleOMR, is divided into five subclasses related to different tasks. :
+ - <b>Alignment</b>: This namespace is focused on aligning strings using the Needleman-Wunsch Algorithm. The main class is FastAlignmentArrays that contains an implementation of the Needleman Wunsch algorithm for two dimension arrays.
+ - <b>Automatism</b>: Functions related to automatism using sikuli software. The OMR programs involved are PhotoScore, SmartScore, Capella and SharpEye. The main class is BatchOMR
+ - <b>Functions</b>: Different common functions used in different tasks. The main classes are:
+	- AddingXMLSingleMeasure. It allows adding measures. Currently is under development
+	- FilesFunctions. Different functions related to files (open, read, write..), and convert to music21
+	- HashFunctions. Functions to manipulate and convert to Hash array the scores. It is useful for aligning measures (not single notes)
+	- MeasureFunctions. Functions to manipulate measures.
+ - <b>Process</b>: Namespace in charged of processing the output from OMR software in order to obtain one final xml (finalScore.xml)
+ 	- Clustering: Class related to selecting OMRs using Phylogenetic trees
+ 	- FullScoreAlignment: Functions related to the full score alignment. It takes the n parts and align with the best omr full score for the missing rest measures
+ 	- PipelineAlignment: Functions related to the alignment and voting process
+ 	- SymbolConversion: Functions related to convert music21 output to symbols for aligning and voting
+ 	- Voting: Functions related to voting symbols
+ - <b>Result</b>: Namespace in charged of getting results
+ 	- ExcellData: Class for writing data in .xlsx format. It allows writing the results comparing with the ground in .xls
+ 	- ProcessGroundS2: It compares the ground file against the different files in order to get results.
+ 	
+*/

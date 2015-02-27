@@ -1,0 +1,5 @@
+from AddingXMLSingleMeasures import AddingXMLSingleMeasures
+from FilesFunctions import FilesFunctions
+from HashFunctions import HashFunctions
+from MeasureFunctions import MeasureFunctions
+# from MultipleOMR.Alignment import NWunsch

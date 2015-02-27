@@ -1,0 +1,25 @@
+var class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r =
+[
+    [ "__joinErrorParts", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a0069f837a34c4226bbb826191ac2c318", null ],
+    [ "__runSynchroScoresAndParts", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a256f23973f8efb60323b59e394e4ad54", null ],
+    [ "_loadNWunsch", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#aa3c47d525e44eabfce104944a0696362", null ],
+    [ "processMovement", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a670363ef42618595e419caf70ba78a76", null ],
+    [ "processMovementGround", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a564a56fbd5e09b8d202a3bd4dbfa53b8", null ],
+    [ "runAdaptAllOMRs", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a8f2c4d65b5637fd74164204dfbb57b22", null ],
+    [ "runAdaptOMRs", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a755b64fa689d5365d0eb9fcbcb08f9b5", null ],
+    [ "runBigData", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#ab018e0efa92f2e8108ceb11c7b71de46", null ],
+    [ "runBigDataGround", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a4eac0d86b57a3d86b7da07178abff679", null ],
+    [ "runCompleteProcess", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#ade4e2531aaaa3b1b067f1ac90b552fb8", null ],
+    [ "runConvertBeamsToTriplets", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#aa19e706c3d4e301b40f530782e87b09e", null ],
+    [ "runConvertKrnToMusicXML", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a02ff9800ea872ff91655c282f4d4b5e4", null ],
+    [ "runConvertMidiToMusicXML", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a7ed437fdc45b5d7bfc2710549a81c7d9", null ],
+    [ "runConvertVoicesToChord", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a323a9e27aa373ba83349c803bc38df84", null ],
+    [ "runFinalXLS", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a01fc7b1a152840f4646cafb75a10fdfa", null ],
+    [ "runLoopBigData", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#acf83f43763b9c2a066873b36896cbb1e", null ],
+    [ "runLoopBigDataGround", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#ac856c212afb76f146dde1a1d391e5d3f", null ],
+    [ "runRemovesEmptyVoices", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a33dfd808b15060881293fb7140e33e7f", null ],
+    [ "runRemovesGaps", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#aa0b8d2e0826c8240937b0ab3bf1c53e5", null ],
+    [ "runViewM21", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a7de08895d3154277d1d15df798222fc3", null ],
+    [ "runViewWrongMeasures", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#ac0a4dbc204132b6b932d5eea78a5da31", null ],
+    [ "setResultS2", "class_multiple_o_m_r_1_1_main_multi_o_m_r_1_1_main_multi_o_m_r.html#a4b79588dfe6b224eb7a19ef8b829fe86", null ]
+];

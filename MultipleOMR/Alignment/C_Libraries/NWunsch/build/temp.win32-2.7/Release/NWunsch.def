@@ -1,0 +1,3 @@
+LIBRARY NWunsch.pyd
+EXPORTS
+initNWunsch
